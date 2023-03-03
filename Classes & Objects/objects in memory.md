@@ -1,0 +1,1 @@
+- Each instance has its own space in memory, only member funtions are shared among all objects
